@@ -1,0 +1,12 @@
+PHOTO SOURCES — hs-029-union Union Landscaping (Wave 6 2026-09-22 PT)
+Commercial-ok Unsplash/Pexels (and prior Wave verified library). Verified by opening each file. No owner stock face.
+
+hero-site.jpg — manicured residential lawn / yard (verified; NOT indoor potting)
+services-trade.jpg — outdoor hardscape / planting bed with stone (verified)
+job-land-* — lawn B/A typical (verified prior-wave library)
+job-hard-* — retaining/hardscape typical (verified; concrete float + prior set)
+job-yard-* — yard grade/planting typical (verified)
+people-* — tools/crew jobsite — NOT owner face
+coverage-house.jpg — residential exterior
+Rejected: indoor potting Unsplash, bicycle mislabel — not used
+Sources: Wave6 Unsplash/Pexels verified 2026-09-22 PT + Elect/JF prior library
