@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Landscaping, retaining walls, and outdoor residential work. Across Placentia and Orange County. Daniel looks at the job first and puts the price in writing.';
+            'Landscaping, retaining walls, and outdoor residential work in Placentia. Daniel looks at the job first and puts the price in writing.';
         }
       }
     },
