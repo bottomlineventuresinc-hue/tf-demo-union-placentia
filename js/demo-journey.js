@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Landscaping, retaining walls, and outdoor residential work across Placentia and North Orange County. You get a fixed itemised quote before we start, Daniel as your named lead on site, and a twelve-month workmanship guarantee when we leave.';
+            'Landscaping, retaining walls, and outdoor residential work. Across Placentia and Orange County. Daniel looks at the job first and puts the price in writing.';
         }
       }
     },
@@ -65,7 +65,7 @@
       id: 'h1',
       apply: function () {
         if (heroH) {
-          heroH.innerHTML = 'Yards and hardscape,<br>quoted <em>before</em> we start.';
+          heroH.innerHTML = 'Yards and retaining walls,<br>priced <em>first.</em>';
         }
       }
     },
@@ -73,7 +73,7 @@
       id: 'service',
       apply: function () {
         if (serviceFirst) {
-          serviceFirst.textContent = 'Landscaping (written programme)';
+          serviceFirst.textContent = 'Retaining walls (written price)';
         }
       }
     }

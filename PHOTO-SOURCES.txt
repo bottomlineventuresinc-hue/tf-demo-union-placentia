@@ -1,12 +1,20 @@
-PHOTO SOURCES — hs-029-union Union Landscaping (Wave 6 2026-09-22 PT)
-Commercial-ok Unsplash/Pexels (and prior Wave verified library). Verified by opening each file. No owner stock face.
+PHOTO SOURCES · hs-029-union Union Landscaping (CR 2026-09-25b PT rebuild)
+All CC0 / public domain (StockSnap, rawpixel CC0, WordPress Photos CC0, Flickr CC0/PDM via Openverse) or prior verified Wave library.
+Every file opened and checked for trade fit and job-label fit. No face is used or captioned as the owner or crew.
+Sample B/A photos are labeled on page as stock images typical of this kind of job.
 
-hero-site.jpg — manicured residential lawn / yard (verified; NOT indoor potting)
-services-trade.jpg — outdoor hardscape / planting bed with stone (verified)
-job-land-* — lawn B/A typical (verified prior-wave library)
-job-hard-* — retaining/hardscape typical (verified; concrete float + prior set)
-job-yard-* — yard grade/planting typical (verified)
-people-* — tools/crew jobsite — NOT owner face
-coverage-house.jpg — residential exterior
-Rejected: indoor potting Unsplash, bicycle mislabel — not used
-Sources: Wave6 Unsplash/Pexels verified 2026-09-22 PT + Elect/JF prior library
+hero-site.jpg <- cr0925/land-fence-garden-iron.jpg : land-fence-garden-iron (rawpixel CC0 https://www.rawpixel.com/image/5949532/free-public-domain-cc0-photo)
+services-trade.jpg <- cr0925/land-brick-herringbone.jpg : Permeable Pavers (for Landscaping) (flickr CC0 https://www.flickr.com/photos/184594136@N08/52279239738)
+people-crew.jpg <- cr0925/land-patio-chairs.jpg : Patio Furniture (stocksnap CC0 https://stocksnap.io/photo/patio-furniture-ZIU3AC46X4)
+people-marek.jpg <- cr0925/land-stone-steps.jpg : Rugged stone steps lead upward, flanked by rocky terrain and retaining walls. (wordpress CC0 https://wordpress.org/photos/photo/7626a0d876/)
+people-tom.jpg <- cr0925/land-hedge-shears.jpg : Best Ready Hedges in UK (flickr PDM https://www.flickr.com/photos/195958422@N04/52276329275)
+coverage-house.jpg <- cr0925/land-hedges-lawn.jpg : Park Nature (stocksnap CC0 https://stocksnap.io/photo/park-nature-MTSVUXKTHB)
+land-shovel-bed.jpg <- cr0925/land-shovel-bed.jpg : Shovel gardening (rawpixel CC0 https://www.rawpixel.com/image/6037169/photo-image-public-domain-plant-free)
+block-wall-retaining.jpg <- cr0925b/block-wall-retaining.jpg : Block Wall Roadway (flickr CC0 https://www.flickr.com/photos/193360612@N06/53755378544)
+land-green-waste.jpg <- cr0925/land-green-waste.jpg : Project 365 #165: 140614 The First Cut Is The Deepest (flickr PDM https://www.flickr.com/photos/23408922@N07/14235199140)
+land-fence-yard-lawn.jpg <- cr0925/land-fence-yard-lawn.jpg : Overall progress on a Garden for the Buddha, mist coming in like a cloud, fence  (flickr CC0 https://www.flickr.com/photos/71401718@N00/8005433892)
+land-flagstone-laying.jpg <- cr0925/land-flagstone-laying.jpg : 2009/365/258 Eight Feet Per Day (flickr CC0 https://www.flickr.com/photos/37996646802@N01/3890718095)
+land-stone-steps.jpg <- cr0925/land-stone-steps.jpg : Rugged stone steps lead upward, flanked by rocky terrain and retaining walls. (wordpress CC0 https://wordpress.org/photos/photo/7626a0d876/)
+
+Replaced from the prior build: all photos (prior library had mislabeled trade images and stock faces).
+Note: No license number on page.
